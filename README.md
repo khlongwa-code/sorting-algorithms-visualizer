@@ -25,7 +25,7 @@ Bubble Sort, Merge Sort, Insertion Sort, and Selection Sort work through visual 
    git clone https://github.com/khlongwa-code/sorting-algorithms-visualizer.git
 
 2. **Navigate to the Project Directory**:
-
+   ```bash
    cd sorting-algorithms-visualizer
 
 3. **Open the Application**:
